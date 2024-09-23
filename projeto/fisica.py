@@ -1,4 +1,4 @@
-from pessoa import Pessoa
+from projeto.pessoa import Pessoa
 from projeto.models.endereco import Endereco
 from projeto.models.enums.sexo import Sexo
 from projeto.models.enums.estado_civil import Estado_Civil
